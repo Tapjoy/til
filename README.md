@@ -29,6 +29,9 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### Ruby
 
+### Tool
+- [Tmux simple usage](tool/tmux-simple.md)
+
 ## About
 
 I shamelessly stole this idea from [thoughtbot/til](https://github.com/thoughtbot/til).
