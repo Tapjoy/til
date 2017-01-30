@@ -21,6 +21,8 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### Elixir
 
+- [Turn off dialyzer warnings in mongodb_ecto](elixir/turn_off_dialyzer_warnings_in_mongodb_ecto.md)
+
 ### Javascript
 
 ### Phoenix
