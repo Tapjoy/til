@@ -23,3 +23,5 @@ iex(11)> %{til: %{ruby: [], elixir: []}} |> (fn(x) -> x[:til] end).()
 ```
 
 Sadly this is the general solution but I don't think we would meet this situation frequently. Therefore in conclusion, today's lesson is "Use existing modules and helper methods effectively". 
+
+Jan 25, 2017 by YoonjungKoh

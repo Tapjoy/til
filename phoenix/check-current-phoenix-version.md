@@ -13,3 +13,5 @@ $ mix phoenix.new -v
 Phoenix v1.2.0
 ```
 Since *Phoenix Installer* that user get from Phoenix repository is just the application dependency, not an excutable. In order to do some stuff with Phoenix, you need to use `mix` task properly.
+
+Jan 24, 2017 by echo304

@@ -23,3 +23,4 @@ $ ctrl + b, "                       : split pane vertically
 $ ctrl + b, o (or Arrow keys)       : switch between split panes
 ```
 
+Jan 25, 2017 by kyuhohan 

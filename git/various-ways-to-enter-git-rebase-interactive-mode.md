@@ -35,3 +35,5 @@ pick 0ab8c9e fix again
 # Rebase 4e9a158..0ab8c9e onto 4e9a158 (2 commands)
 ```
 **- Please note that it will start from the one above the commit hash we inputted.**
+
+Jan 25, 2017 by jeongwooklee
