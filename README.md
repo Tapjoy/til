@@ -16,6 +16,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 * [Phoenix](#phoenix)
 * [React](#react)
 * [Ruby](#ruby)
+* [Git](#git)
 
 ---
 
@@ -31,6 +32,9 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### React
 
 ### Ruby
+
+### Git
+- [Various ways to enter git rebase interactive mode.](git/various-ways-to-enter-git-rebase-interactive-mode.md)
 
 ### Tool
 - [Tmux simple usage](tool/tmux-simple.md)
