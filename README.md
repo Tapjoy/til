@@ -23,6 +23,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### Elixir
 
 - [Piping into a unary operator is deprecated](elixir/piping_into_unary_operator_is_deprecated)
+- [Turn off dialyzer warnings in mongodb_ecto](elixir/turn_off_dialyzer_warnings_in_mongodb_ecto.md)
 
 ### Javascript
 
