@@ -22,6 +22,8 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### Elixir
 
+- [Piping into a unary operator is deprecated](elixir/piping_into_unary_operator_is_deprecated)
+
 ### Javascript
 
 ### Phoenix
