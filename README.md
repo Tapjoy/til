@@ -31,7 +31,6 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 - [Check currently installed Phoenix version number](phoenix/check-current-phoenix-version.md)
 
-
 ### React
 
 ### Ruby
@@ -41,6 +40,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### Tool
 - [Tmux simple usage](tool/tmux-simple.md)
+- [How to save buffers on Emacs deactivation](tool/autosave_emacs.md)
 
 ## About
 
