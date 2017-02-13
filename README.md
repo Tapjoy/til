@@ -15,6 +15,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 * [Javascript](#javascript)
 * [Phoenix](#phoenix)
 * [React](#react)
+* [React Native](#react-native)
 * [Ruby](#ruby)
 * [Git](#git)
 
@@ -33,6 +34,9 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 
 ### React
+
+### React native
+- [How to wrap multiple components with TouchableHighlight](react-native/how-to-wrap-multiple-components-with-touchable-highlight.md)
 
 ### Ruby
 
