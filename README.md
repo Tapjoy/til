@@ -35,6 +35,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### React
 
 ### Ruby
+- [Filter order in Rails](ruby/filter_order_in_rails.md)
 
 ### Git
 - [Various ways to enter git rebase interactive mode.](git/various-ways-to-enter-git-rebase-interactive-mode.md)
