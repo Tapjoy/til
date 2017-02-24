@@ -29,3 +29,5 @@ Solution is quite simple.<br>
     </View>
   </TouchableHighlight>
 ```
+
+February 12 2017, by echo304
