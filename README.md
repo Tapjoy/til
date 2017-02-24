@@ -29,6 +29,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Use various flow control structures](elixir/various_flow_control_structures.md)
 
 ### Javascript
+- [toFixed with floor](javascript/tofixed-with-floor)
 
 ### Phoenix
 
