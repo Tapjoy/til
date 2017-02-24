@@ -54,6 +54,5 @@ def get(_, key, false),                      do: load_from_cache(key)
 (And I used `_env`, `_force` as variable name which are not required. They are for specifying `get` function scheme.)
 
 We can not say which is better than others and the choice is yours.
-~/tj/til(elixir/various-flow-control-structures ✗)                                                                                                                 (elixir/various-flow-control-structures|…)
 
 February 12 2017, by dongyoonlee
