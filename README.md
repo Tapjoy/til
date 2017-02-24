@@ -25,6 +25,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Piping into a unary operator is deprecated](elixir/piping_into_unary_operator_is_deprecated.md)
 - [Turn off dialyzer warnings in mongodb_ecto](elixir/turn_off_dialyzer_warnings_in_mongodb_ecto.md)
 - [Manage dialyzer's PLT file](elixir/manage_dialyzer_plt_file.md)
+- [Use various flow control structures](elixir/various_flow_control_structures.md)
 
 ### Javascript
 
