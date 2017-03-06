@@ -18,6 +18,8 @@ smart people at [Hashrocket](http://hashrocket.com/).
 * [React Native](#react-native)
 * [Ruby](#ruby)
 * [Git](#git)
+* [Tool](#tool)
+* [DB](#db)
 
 ---
 
@@ -30,6 +32,8 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### Javascript
 - [toFixed with floor](javascript/tofixed-with-floor.md)
+- [Split bootstrap's column by the number which is not an aliquot part of 12](javascript/bootstrap_column_split_by_5.md)
+- [Default value with destructuring parameters](javascript/default_value_with_destructuring_params.md)
 
 ### Phoenix
 
@@ -49,6 +53,9 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### Tool
 - [Tmux simple usage](tool/tmux-simple.md)
 - [How to save buffers on Emacs deactivation](tool/autosave_emacs.md)
+
+### DB
+- [Build & apply PostgreSQL extensions](db/build_and_apply_postgresql_extension.md)
 
 ## About
 
