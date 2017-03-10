@@ -44,7 +44,8 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Filter order in Rails](ruby/filter_order_in_rails.md)
 
 ### Git
-- [Various ways to enter git rebase interactive mode.](git/various-ways-to-enter-git-rebase-interactive-mode.md)
+- [Various ways to enter git rebase interactive mode](git/various-ways-to-enter-git-rebase-interactive-mode.md)
+- [Fixup commit and auto squash](git/fixup-commit-and-auto-squash.md)
 
 ### Tool
 - [Tmux simple usage](tool/tmux-simple.md)
