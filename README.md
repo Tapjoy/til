@@ -42,6 +42,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### Ruby
 - [Filter order in Rails](ruby/filter_order_in_rails.md)
+- [How to check if a ruby object is a boolean](ruby/how_to_check_if_a_ruby_object_is_a_boolean.md)
 
 ### Git
 - [Various ways to enter git rebase interactive mode.](git/various-ways-to-enter-git-rebase-interactive-mode.md)
