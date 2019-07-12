@@ -27,6 +27,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Turn off dialyzer warnings in mongodb_ecto](elixir/turn_off_dialyzer_warnings_in_mongodb_ecto.md)
 - [Manage dialyzer's PLT file](elixir/manage_dialyzer_plt_file.md)
 - [Use various flow control structures](elixir/various_flow_control_structures.md)
+- [Crypting functions that return same result for ruby and elixir](elixir/crypting-functions-for-ruby-and-elixir.md)
 
 ### Javascript
 - [toFixed with floor](javascript/tofixed-with-floor.md)
