@@ -51,6 +51,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### Tool
 - [Tmux simple usage](tool/tmux-simple.md)
 - [How to save buffers on Emacs deactivation](tool/autosave_emacs.md)
+- [How to store arbitrary data as global variable in chrome dev tool](too/save-as-global-var-in-chrome-dev-tool.md)
 
 ## About
 
