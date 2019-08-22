@@ -35,6 +35,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [toFixed with floor](javascript/tofixed-with-floor.md)
 - [Split bootstrap's column by the number which is not an aliquot part of 12](javascript/bootstrap_column_split_by_5.md)
 - [Default value with destructuring parameters](javascript/default_value_with_destructuring_params.md)
+- [Differences between lodash's _.assign and _.assignIn](differences_between_lodash_assign_and_assign_in.md)
 
 ### Phoenix
 
